@@ -1,0 +1,8 @@
+cmd
+    1.create venv in cmd/cd to project directory bf then key --python -m virtualenv venu--
+    2.activate virtualenv in cmd --.\venv\scripts\activate--
+    3.pip list check list of programs in venv
+    4.pip install Django in venv
+    5.django-admin startproject <project name>
+    6.cd to <django project>
+    7.py manage.py runserver (http://127.0.0.1:8000/ or localhost:8000)
